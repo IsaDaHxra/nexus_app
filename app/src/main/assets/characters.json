@@ -1,0 +1,5 @@
+[
+  {"id":"miles","name":"Miles Morales","role":"Herói Homem-Aranha","description":"Um jovem do Brooklyn que tenta equilibrar a vida de estudante com a responsabilidade de proteger seu universo.","image":"images/character_miles.png","portrait":"images/portrait_miles.png","powers":["Sentido-Aranha","Venom Blast"],"appearances":["Episódio 1 • Nexus"],"source":"Elenco local"},
+  {"id":"gwen","name":"Gwen Stacy","role":"Heroína Spider-Gwen","description":"Uma heroína de outro universo que encontra em Miles uma conexão que atravessa dimensões.","image":"images/character_gwen.png","portrait":"images/portrait_gwen.png","powers":["Agilidade sobre-humana","Sentido-Aranha"],"appearances":["Episódio 1 • Nexus"],"source":"Elenco local"},
+  {"id":"peter","name":"Peter B. Parker","role":"Mentor de Miles Morales","description":"Um Homem-Aranha experiente, com muito a ensinar — e ainda muito a aprender.","image":"images/character_peter.png","portrait":"images/portrait_peter.png","powers":["Força sobre-humana","Sentido-Aranha"],"appearances":[],"source":"Elenco local"}
+]

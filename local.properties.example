@@ -1,0 +1,2 @@
+# Copy to local.properties; Android Studio writes sdk.dir automatically.
+COMIC_VINE_API_KEY=

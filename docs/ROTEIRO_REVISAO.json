@@ -1,0 +1,409 @@
+[
+  {
+    "id": "83:29",
+    "nome_figma": "Cena 1",
+    "proxima": "86:24",
+    "escolhas": [],
+    "texto": "Ser o Homem-Aranha do meu universo tem sido... cansativo.\nMiles Morales"
+  },
+  {
+    "id": "86:24",
+    "nome_figma": "Cena 2",
+    "proxima": "86:33",
+    "escolhas": [],
+    "texto": "Entre lição de casa, contas para pagar e impedir assaltos a banco...\nMiles Morales"
+  },
+  {
+    "id": "86:33",
+    "nome_figma": "Cena 3",
+    "proxima": "86:42",
+    "escolhas": [],
+    "texto": "Eu mal tenho tempo para respirar..\nMiles Morales"
+  },
+  {
+    "id": "86:42",
+    "nome_figma": "Cena 4",
+    "proxima": "86:57",
+    "escolhas": [],
+    "texto": " O rádio da polícia na minha escrivaninha chia."
+  },
+  {
+    "id": "86:57",
+    "nome_figma": "Cena 5",
+    "proxima": "87:79",
+    "escolhas": [],
+    "texto": "Uma \"invasão com anomalia magnética\" na Alchemax."
+  },
+  {
+    "id": "88:99",
+    "nome_figma": "Cena 7",
+    "proxima": "90:117",
+    "escolhas": [],
+    "texto": "Balançar pela cidade na chuva não é nada glamouroso..\nHomem aranha"
+  },
+  {
+    "id": "90:117",
+    "nome_figma": "Cena 8",
+    "proxima": "91:150",
+    "escolhas": [],
+    "texto": "Quando chego ao prédio da Alchemax, meu Sentido Aranha enlouquece.\nHomem aranha"
+  },
+  {
+    "id": "91:150",
+    "nome_figma": "Cena 9",
+    "proxima": "93:183",
+    "escolhas": [],
+    "texto": "A janela do laboratório está piscando... em cores que nem deveriam existir.\nHomem aranha"
+  },
+  {
+    "id": "93:183",
+    "nome_figma": "Cena 10",
+    "proxima": "93:202",
+    "escolhas": [],
+    "texto": "Entro pelo teto. O invasor parece o Gatuno, mas a armadura dele está...\nHomem aranha"
+  },
+  {
+    "id": "93:202",
+    "nome_figma": "Cena 11",
+    "proxima": "93:215",
+    "escolhas": [],
+    "texto": "falhando? Ele pisca em 2D e 3D, como se o universo não soubesse como renderizar ele.\nHomem aranha"
+  },
+  {
+    "id": "95:268",
+    "nome_figma": "Cena 14",
+    "proxima": "95:282",
+    "escolhas": [],
+    "texto": "Minha estratégia não importa. \nHomem aranha"
+  },
+  {
+    "id": "95:282",
+    "nome_figma": "Cena 15",
+    "proxima": "95:311",
+    "escolhas": [],
+    "texto": "A armadura dele emite uma onda de choque roxa que dissolve minha teia no ar e me joga contra a parede.\nHomem aranha"
+  },
+  {
+    "id": "93:215",
+    "nome_figma": "Cena 12",
+    "proxima": "93:239",
+    "escolhas": [],
+    "texto": "Ele está arrancando um núcleo de energia de uma máquina."
+  },
+  {
+    "id": "87:79",
+    "nome_figma": "Cena 6",
+    "proxima": null,
+    "escolhas": [
+      {
+        "label": "Sem descanso para os heróis. Vamos lá.",
+        "next": "88:99"
+      },
+      {
+        "label": "Só mais cinco minutos... brincadeira, eu já vou.",
+        "next": "88:99"
+      }
+    ],
+    "texto": "Sem descanso para os heróis. Vamos lá.\nSó mais cinco minutos... brincadeira, eu já vou."
+  },
+  {
+    "id": "93:239",
+    "nome_figma": "Cena 13",
+    "proxima": null,
+    "escolhas": [
+      {
+        "label": " Com licença, acho que esse reator não é seu.",
+        "next": "95:268"
+      },
+      {
+        "label": "Atirar teia direto nas mãos dele (Ação surpresa)",
+        "next": "95:268"
+      }
+    ],
+    "texto": " Com licença, acho que esse reator não é seu.\nAtirar teia direto nas mãos dele (Ação surpresa)"
+  },
+  {
+    "id": "95:311",
+    "nome_figma": "Cena 16",
+    "proxima": "95:331",
+    "escolhas": [],
+    "texto": " De repente, um buraco hexagonal verde e roxo rasga o ar. "
+  },
+  {
+    "id": "95:331",
+    "nome_figma": "Cena 17",
+    "proxima": "95:339",
+    "escolhas": [],
+    "texto": "Uma garota com um traje branco e capuz sai girando de lá de dentro!"
+  },
+  {
+    "id": "95:339",
+    "nome_figma": "Cena 18",
+    "proxima": "95:350",
+    "escolhas": [],
+    "texto": "Ela acerta um chute duplo no Gatuno, que recua para as sombras."
+  },
+  {
+    "id": "95:350",
+    "nome_figma": "Cena 19",
+    "proxima": "96:374",
+    "escolhas": [],
+    "texto": " Ela pousa graciosamente, checa um relógio bizarro no pulso e finalmente olha para mim."
+  },
+  {
+    "id": "96:374",
+    "nome_figma": "Cena 20",
+    "proxima": "96:389",
+    "escolhas": [],
+    "texto": "Espera... o relógio não apitou a sua presença. Você é daqui mesmo?\n???"
+  },
+  {
+    "id": "96:389",
+    "nome_figma": "Cena 21",
+    "proxima": "96:409",
+    "escolhas": [],
+    "texto": " Porque a sua teia parece meio amadora.\n???"
+  },
+  {
+    "id": "96:460",
+    "nome_figma": "A",
+    "proxima": "96:505",
+    "escolhas": [],
+    "texto": "Você ia apanhar feio, novato. Mas gostei da marra. Pode me chamar de Gwen.\nGwen"
+  },
+  {
+    "id": "96:505",
+    "nome_figma": "Cena 25",
+    "proxima": "96:520",
+    "escolhas": [],
+    "texto": "O papo tá ótimo, mas a gente tem um problema maior ali...\nGwen"
+  },
+  {
+    "id": "100:605",
+    "nome_figma": "Cena 29",
+    "proxima": "100:635",
+    "escolhas": [],
+    "texto": "Se aquilo esmagar o reator, o bairro inteiro vira poeira!\nGwen"
+  },
+  {
+    "id": "102:668",
+    "nome_figma": "Cena 33",
+    "proxima": "100:647",
+    "escolhas": [],
+    "texto": "Eu não vou aguentar muito tempo! O núcleo... não deixa ele fugir com o núcleo!\nGwen"
+  },
+  {
+    "id": "102:740",
+    "nome_figma": "Cena 39A",
+    "proxima": "102:763",
+    "escolhas": [],
+    "texto": "Você... me deixou segurando uma bomba relógio sozinha.\nGwen"
+  },
+  {
+    "id": "104:933",
+    "nome_figma": "Cena 39B",
+    "proxima": "104:947",
+    "escolhas": [],
+    "texto": "Bom trabalho em equipe, novato. O problema é que o Gatuno levou o estabilizador.\nGwen"
+  },
+  {
+    "id": "104:947",
+    "nome_figma": "Cena 39B",
+    "proxima": "104:959",
+    "escolhas": [],
+    "texto": "O tecido da sua realidade acabou de rasgar.\nGwen"
+  },
+  {
+    "id": "104:959",
+    "nome_figma": "Cena 39B",
+    "proxima": "104:974",
+    "escolhas": [],
+    "texto": "Eu não podia deixar você ser esmagada. A gente dá um jeito nisso.\nHOMEM ARANHA"
+  },
+  {
+    "id": "104:974",
+    "nome_figma": "Cena 39B",
+    "proxima": null,
+    "escolhas": [],
+    "texto": "Tem a essência de um Aranha. Mas agora, o seu universo virou um alvo ambulante.\nGWEN"
+  },
+  {
+    "id": "100:635",
+    "nome_figma": "Cena 30",
+    "proxima": "102:668",
+    "escolhas": [],
+    "texto": "Ela atira teias na viga, segurando o peso colossal com os dentes trincados, mas a estrutura ainda está descendo."
+  },
+  {
+    "id": "100:647",
+    "nome_figma": "Cena 31",
+    "proxima": "102:683",
+    "escolhas": [],
+    "texto": " O Gatuno está a dois passos de cruzar o portal com o núcleo."
+  },
+  {
+    "id": "102:683",
+    "nome_figma": "Cena 34",
+    "proxima": "100:655",
+    "escolhas": [],
+    "texto": "A Gwen está com os músculos tremendo, prestes a ceder ao peso da viga."
+  },
+  {
+    "id": "102:697",
+    "nome_figma": "Cena 35A",
+    "proxima": "102:708",
+    "escolhas": [],
+    "texto": "Disparo uma teia, arrancando o núcleo da mão do Gatuno no último segundo."
+  },
+  {
+    "id": "103:867",
+    "nome_figma": "Cena 35B",
+    "proxima": "103:882",
+    "escolhas": [],
+    "texto": "Ignoro o portal. Salto para o lado da Gwen, atirando teias na viga e puxando com toda a minha força."
+  },
+  {
+    "id": "103:882",
+    "nome_figma": "Cena 36B",
+    "proxima": "103:898",
+    "escolhas": [],
+    "texto": "Juntos, conseguimos desviar o concreto com segurança para longe do reator."
+  },
+  {
+    "id": "103:898",
+    "nome_figma": "Cena 37B",
+    "proxima": "103:915",
+    "escolhas": [],
+    "texto": "O som de um raio ecoa. O Gatuno escapou com o núcleo."
+  },
+  {
+    "id": "103:915",
+    "nome_figma": "Cena 38B",
+    "proxima": "104:933",
+    "escolhas": [],
+    "texto": "Olho para a janela do laboratório: o céu da minha cidade está se dividindo em blocos de pixels e cores neon."
+  },
+  {
+    "id": "102:708",
+    "nome_figma": "Cena 36A",
+    "proxima": "102:722",
+    "escolhas": [],
+    "texto": " Atrás de mim, um estrondo."
+  },
+  {
+    "id": "102:722",
+    "nome_figma": "Cena 37A",
+    "proxima": "102:731",
+    "escolhas": [],
+    "texto": "Gwen usou o último pingo de força para desviar a viga, que esmaga o chão a centímetros do reator."
+  },
+  {
+    "id": "102:731",
+    "nome_figma": "Cena 38A",
+    "proxima": "102:740",
+    "escolhas": [],
+    "texto": "Ela cai de joelhos, arfando."
+  },
+  {
+    "id": "102:763",
+    "nome_figma": "Cena 40A",
+    "proxima": "102:799",
+    "escolhas": [],
+    "texto": "Levanto o núcleo brilhante, tentando me justificar"
+  },
+  {
+    "id": "96:520",
+    "nome_figma": "Cena 26",
+    "proxima": "99:586",
+    "escolhas": [],
+    "texto": "Quando o Gatuno arranca o núcleo multiversal, a gravidade da sala enlouquece."
+  },
+  {
+    "id": "99:586",
+    "nome_figma": "Cena 27",
+    "proxima": "100:598",
+    "escolhas": [],
+    "texto": "Uma viga colossal de concreto se solta do teto e despenca direto para o reator principal exposto."
+  },
+  {
+    "id": "102:799",
+    "nome_figma": "Cena 41A",
+    "proxima": "102:819",
+    "escolhas": [],
+    "texto": "Eu impedi a fuga dele. A missão era essa, não era?\nHomem aranha"
+  },
+  {
+    "id": "102:819",
+    "nome_figma": "Cena 42A",
+    "proxima": "102:837",
+    "escolhas": [],
+    "texto": "Era. Mas no Nexus, nós agimos como uma equipe.\nHomem aranha"
+  },
+  {
+    "id": "102:837",
+    "nome_figma": "Cena 43A",
+    "proxima": null,
+    "escolhas": [],
+    "texto": "Se eu tivesse falhado, você estaria segurando um núcleo no meio de uma cratera.\nHomem aranha"
+  },
+  {
+    "id": "100:598",
+    "nome_figma": "Cena 28",
+    "proxima": "100:605",
+    "escolhas": [],
+    "texto": "Se ele levar isso, as dimensões entram em colapso."
+  },
+  {
+    "id": "96:474",
+    "nome_figma": "B",
+    "proxima": "96:505",
+    "escolhas": [],
+    "texto": "Aham, vi sim. O seu 'controle' ia te custar uns três dentes. De nada.\nGwen"
+  },
+  {
+    "id": "96:409",
+    "nome_figma": "Cena 22",
+    "proxima": "96:430",
+    "escolhas": [],
+    "texto": "Ela é rápida e tem estilo."
+  },
+  {
+    "id": "96:451",
+    "nome_figma": "Cena 24",
+    "proxima": null,
+    "escolhas": [
+      {
+        "label": "Quem é VOCÊ e por que roubou minha cena de ação?",
+        "next": "96:460"
+      },
+      {
+        "label": "Obrigado pela ajuda, mas eu tinha tudo sob controle.",
+        "next": "96:474"
+      }
+    ],
+    "texto": "Quem é VOCÊ e por que roubou minha cena de ação?\nObrigado pela ajuda, mas eu tinha tudo sob controle."
+  },
+  {
+    "id": "100:655",
+    "nome_figma": "Cena 32",
+    "proxima": null,
+    "escolhas": [
+      {
+        "label": "A Missão!",
+        "next": "102:697"
+      },
+      {
+        "label": "A Equipe!",
+        "next": "103:867"
+      }
+    ],
+    "texto": "A Missão!\n (Ignorar a viga e focar em recuperar o núcleo com o Gatuno)\n(Abandonar o Gatuno e ajudar a Gwen a segurar a viga do reator)\nA Equipe!"
+  },
+  {
+    "id": "96:430",
+    "nome_figma": "Cena 23",
+    "proxima": "96:451",
+    "escolhas": [],
+    "texto": "Mas eu não vou deixar uma invasora de dimensão acabar com a minha moral na minha própria cidade."
+  }
+]
